@@ -12,12 +12,12 @@ namespace libBaa {
         basic.showString("Bachinger Alois")
     }
 
-    //% block
-    export function ZeigeDrei() {
-       strip.showColor(neopixel.colors(NeoPixelColors.Blue))
-    }
+    // //% block
+    // export function ZeigeDrei() {
+    //    strip.showColor(neopixel.colors(NeoPixelColors.Blue))
+    // }
 
-    // Hier wird die Hardware initialisiert......
+    // // Hier wird die Hardware initialisiert......
 
     // let baa: neopixel.Strip = null;
     // baa = neopixel.create(DigitalPin.P0, 8, NeoPixelMode.RGB);
